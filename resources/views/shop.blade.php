@@ -41,8 +41,7 @@
                                 <img src="/images/{{ $pro->image_path }}"
                                      class="card-img-top mx-auto"
                                      style="height: 150px; width: 150px;display: block;"
-                                     alt="{{ $pro->image_path }}"
-                                >
+                                     alt="{{ $pro->image_path }}">
                                 <div class="card-body">
                                     <a href=""><h6 class="card-title">{{ $pro->name }}</h6></a>
                                     <p>${{ $pro->price }}</p>

@@ -212,6 +212,7 @@
         <li>
           <div class="mode"><i class="fa fa-moon-o"></i></div>
         </li>
+       
         <li class="cart-nav onhover-dropdown">
           <div class="cart-box"><i data-feather="shopping-cart"></i><span class="badge rounded-pill badge-primary">2</span></div>
           <ul class="cart-dropdown onhover-show-div">
@@ -263,12 +264,13 @@
             <li><a class="btn btn-block w-100 mb-2 btn-primary view-cart" href='/cart'>Go to shopping bag</a><a class="btn btn-block w-100 btn-secondary view-cart" href="#">Checkout</a></li>
           </ul>
         </li>
+        
         <li class="onhover-dropdown">
           <i data-feather="message-square"></i>
           <ul class="chat-dropdown onhover-show-div">
             <li>
               <i data-feather="message-square"></i>
-              <h6 class="f-18 mb-0">Message Box                                    </h6>
+              <h6 class="f-18 mb-0">Message Box</h6>
             </li>
             <li>
               <div class="media">

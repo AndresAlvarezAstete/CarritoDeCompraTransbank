@@ -41,8 +41,7 @@
                                 <img src="/images/<?php echo e($pro->image_path); ?>"
                                      class="card-img-top mx-auto"
                                      style="height: 150px; width: 150px;display: block;"
-                                     alt="<?php echo e($pro->image_path); ?>"
-                                >
+                                     alt="<?php echo e($pro->image_path); ?>">
                                 <div class="card-body">
                                     <a href=""><h6 class="card-title"><?php echo e($pro->name); ?></h6></a>
                                     <p>$<?php echo e($pro->price); ?></p>
